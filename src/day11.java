@@ -1,4 +1,4 @@
-import java.util.LinkedList;
+oava.util.LinkedList;
 public class day11{
     public static void main(String[] args) {
         LinkedList<String> set = new LinkedList<String>();
