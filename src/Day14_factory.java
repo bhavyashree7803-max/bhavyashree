@@ -28,5 +28,3 @@ public class Day14Factory {
         getNotification(factory,type).send(" 123467798","Amount 800 credited");
     }
 }
-
-
